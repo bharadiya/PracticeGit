@@ -1,1 +1,2 @@
 This is my first day of learning git .
+This is my second day of learning git .
